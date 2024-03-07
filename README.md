@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alperen</h1>
 <h3 align="center">A passionate Full-stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Koinbasket**
-
 - 👨‍💻 My Portfolio [https://alperenbekci.vercel.app/](https://alperenbekci.vercel.app/)
 
 - 💬 Ask me about **Frontend**
